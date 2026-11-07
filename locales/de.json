@@ -767,5 +767,8 @@
   "改用 1.5": "Zu 1.5 wechseln",
   "已改用 Everything 1.5，以后登录 Windows 时也会启动它": "Auf Everything 1.5 gewechselt. Es startet ab jetzt auch bei der Anmeldung bei Windows",
   "已复制": "Kopiert",
-  "复制失败，请重试": "Kopieren fehlgeschlagen. Bitte erneut versuchen."
+  "复制失败，请重试": "Kopieren fehlgeschlagen. Bitte erneut versuchen.",
+  "保持屏幕常亮": "Bildschirm eingeschaltet lassen",
+  "PecoFence 运行时阻止自动熄屏和自动睡眠；关闭开关或退出应用后恢复": "Verhindert das automatische Ausschalten des Bildschirms und den automatischen Ruhezustand, solange PecoFence läuft. Ausschalten dieser Option oder Beenden der App stellt das normale Verhalten wieder her",
+  "未能更改“保持屏幕常亮”，请稍后重试。": "„Bildschirm eingeschaltet lassen“ konnte nicht geändert werden. Bitte später erneut versuchen."
 }

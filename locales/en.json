@@ -767,5 +767,8 @@
   "改用 1.5": "Switch to 1.5",
   "已改用 Everything 1.5，以后登录 Windows 时也会启动它": "Switched to Everything 1.5. It also starts when you sign in to Windows from now on",
   "已复制": "Copied",
-  "复制失败，请重试": "Copy failed. Try again."
+  "复制失败，请重试": "Copy failed. Try again.",
+  "保持屏幕常亮": "Keep screen on",
+  "PecoFence 运行时阻止自动熄屏和自动睡眠；关闭开关或退出应用后恢复": "Prevent the display from turning off and the PC from sleeping automatically while PecoFence is running; turn this off or exit the app to restore normal behavior",
+  "未能更改“保持屏幕常亮”，请稍后重试。": "Could not change “Keep screen on”. Please try again later."
 }

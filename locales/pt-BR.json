@@ -767,5 +767,8 @@
   "改用 1.5": "Mudar para 1.5",
   "已改用 Everything 1.5，以后登录 Windows 时也会启动它": "Agora o Everything 1.5 está em uso. Ele também inicia quando você entra no Windows",
   "已复制": "Copiado",
-  "复制失败，请重试": "Falha ao copiar. Tente novamente."
+  "复制失败，请重试": "Falha ao copiar. Tente novamente.",
+  "保持屏幕常亮": "Manter a tela ligada",
+  "PecoFence 运行时阻止自动熄屏和自动睡眠；关闭开关或退出应用后恢复": "Impede que a tela desligue e o computador entre em suspensão automaticamente enquanto o PecoFence estiver em execução. Desative esta opção ou saia do aplicativo para restaurar o comportamento normal",
+  "未能更改“保持屏幕常亮”，请稍后重试。": "Não foi possível alterar “Manter a tela ligada”. Tente novamente mais tarde."
 }
