@@ -5,7 +5,7 @@ permissions:
 
 on:
   push:
-    branches: [main]
+    branches: [main, codex/build-keep-screen-on-portable]
   pull_request:
 
 jobs:
